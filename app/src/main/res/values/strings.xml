@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Droid Cafe</string>
     <string name="action_settings">Settings</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
 </resources>
